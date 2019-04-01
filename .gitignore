@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode
+.vscode/
+
+# input files
+*.xls
+*.xlsx
+*.csv
